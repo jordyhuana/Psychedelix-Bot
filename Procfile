@@ -1,1 +1,1 @@
-worker: node credentials.js
+worker: node bot.js
