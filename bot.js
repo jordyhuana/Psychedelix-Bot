@@ -6,8 +6,8 @@ client.on('ready', () => {
 });
 
 client.on('message', message => {
-    if (message.content === 'kek') {
-    	message.reply(':kek: :kek: :kek: :kek: :kek: :kek: :kek: :kek: :kek: :kek: :kek: :kek: :kek: :kek: :kek: :kek:');
+    if (message.content === 'ping') {
+    	message.reply('pong');
   	}
 });
 
