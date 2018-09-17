@@ -6,8 +6,8 @@ client.on('ready', () => {
 });
 
 client.on('message', message => {
-    if (message.content === 'danny') {
-    	message.reply('Danny is a loser');
+    if (message.content === 'kek') {
+    	message.reply(':kek: :kek: :kek: :kek: :kek: :kek: :kek: :kek: :kek: :kek: :kek: :kek: :kek: :kek: :kek: :kek:');
   	}
 });
 
